@@ -1,1002 +1,2442 @@
 [
     {
-        "company": "BRQ Digital Solutions",
-        "job_title": "Profissional Desenvolvedor iOS S\u00eanior\nProfissional Desenvolvedor iOS S\u00eanior with verification",
-        "link": "https://www.linkedin.com/jobs/view/4018188033/",
+        "company": "Meta",
+        "job_title": "Desenvolvedor Fullstack .Net/ React S\u00eanior",
+        "link": "https://www.linkedin.com/jobs/view/4051198594/",
         "job_recruiter": "",
         "job_location": "Brazil (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
     },
     {
-        "company": "Remobi",
-        "job_title": "Staff Software Engineer\nStaff Software Engineer",
-        "link": "https://www.linkedin.com/jobs/view/4009240843/",
+        "company": "Nearsure",
+        "job_title": "Full Stack .NET Engineer - Work from home",
+        "link": "https://www.linkedin.com/jobs/view/4053508841/",
+        "job_recruiter": "",
+        "job_location": "Greater Belo Horizonte (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Nearsure",
+        "job_title": "Principal Full Stack C# Engineer - Work from home",
+        "link": "https://www.linkedin.com/jobs/view/4053507956/",
+        "job_recruiter": "",
+        "job_location": "Greater Belo Horizonte (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Areti Health",
+        "job_title": "Senior Python Developer in a Silicon Valley Startup That Saves Lives",
+        "link": "https://www.linkedin.com/jobs/view/4051252482/",
         "job_recruiter": "",
         "job_location": "Brazil (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
-    },
-    {
-        "company": "Luxoft",
-        "job_title": "Senior C# Developer, Remote Brazil\nSenior C# Developer, Remote Brazil with verification",
-        "link": "https://www.linkedin.com/jobs/view/4030719382/",
-        "job_recruiter": "",
-        "job_location": "Brazil (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
-    },
-    {
-        "company": "EPAM Systems",
-        "job_title": "Lead Full Stack Developer\nLead Full Stack Developer with verification",
-        "link": "https://www.linkedin.com/jobs/view/3954671645/",
-        "job_recruiter": "",
-        "job_location": "Brazil (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
-    },
-    {
-        "company": "BRQ Digital Solutions",
-        "job_title": "Profissional Back End .NET/AWS S\u00eanior\nProfissional Back End .NET/AWS S\u00eanior with verification",
-        "link": "https://www.linkedin.com/jobs/view/4021914940/",
-        "job_recruiter": "",
-        "job_location": "Brazil (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
-    },
-    {
-        "company": "GFT Technologies",
-        "job_title": "Desenvolvimento .NET Pleno (Remoto)\nDesenvolvimento .NET Pleno (Remoto) with verification",
-        "link": "https://www.linkedin.com/jobs/view/4010803519/",
-        "job_recruiter": "",
-        "job_location": "Brazil (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
-    },
-    {
-        "company": "BRQ Digital Solutions",
-        "job_title": "Profissional Back End .Net/Python - SR\nProfissional Back End .Net/Python - SR with verification",
-        "link": "https://www.linkedin.com/jobs/view/4023205297/",
-        "job_recruiter": "",
-        "job_location": "Brazil (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
-    },
-    {
-        "company": "BRQ Digital Solutions",
-        "job_title": "Profissional .NET S\u00eanior\nProfissional .NET S\u00eanior with verification",
-        "link": "https://www.linkedin.com/jobs/view/4031616450/",
-        "job_recruiter": "",
-        "job_location": "Brazil (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
-    },
-    {
-        "company": "Foxbox Digital",
-        "job_title": "C# .Net Architect\nC# .Net Architect",
-        "link": "https://www.linkedin.com/jobs/view/4032427618/",
-        "job_recruiter": "",
-        "job_location": "Brazil (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
-    },
-    {
-        "company": "EPAM Systems",
-        "job_title": "Lead MACH Developer\nLead MACH Developer with verification",
-        "link": "https://www.linkedin.com/jobs/view/3960108261/",
-        "job_recruiter": "",
-        "job_location": "Brazil (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
-    },
-    {
-        "company": "HCLTech",
-        "job_title": "Cloud Full Stack Developer .NET Core\nCloud Full Stack Developer .NET Core with verification",
-        "link": "https://www.linkedin.com/jobs/view/3998843355/",
-        "job_recruiter": "",
-        "job_location": "Brazil (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
-    },
-    {
-        "company": "GFT Technologies",
-        "job_title": "Desenvolvimento .Net + Python - S\u00eanior\nDesenvolvimento .Net + Python - S\u00eanior with verification",
-        "link": "https://www.linkedin.com/jobs/view/3966935436/",
-        "job_recruiter": "",
-        "job_location": "Brazil (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
-    },
-    {
-        "company": "QuintoAndar",
-        "job_title": "Grupo QuintoAndar | Senior Software Engineer\nGrupo QuintoAndar | Senior Software Engineer with verification",
-        "link": "https://www.linkedin.com/jobs/view/4000482552/",
-        "job_recruiter": "",
-        "job_location": "Brazil (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
-    },
-    {
-        "company": "Questrade Financial Group",
-        "job_title": "Team Lead, Cloud Platform Engineering\nTeam Lead, Cloud Platform Engineering",
-        "link": "https://www.linkedin.com/jobs/view/3931614633/",
-        "job_recruiter": "",
-        "job_location": "Brazil (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
-    },
-    {
-        "company": "Crossover ",
-        "job_title": "Lead Software Engineer, 2 Hour Learning (Remote) - $100,000/year USD\nLead Software Engineer, 2 Hour Learning (Remote) - $100,000/year USD with verification",
-        "link": "https://www.linkedin.com/jobs/view/4028888551/",
-        "job_recruiter": "",
-        "job_location": "Belo Horizonte, Minas Gerais, Brazil (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
-    },
-    {
-        "company": "L.A. Head Hunter",
-        "job_title": "Work From Home .NET Developer\nWork From Home .NET Developer",
-        "link": "https://www.linkedin.com/jobs/view/4034306336/",
-        "job_recruiter": "",
-        "job_location": "Brazil (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
-    },
-    {
-        "company": "Crossover ",
-        "job_title": "Senior Full Stack Developer, 2 Hour Learning (Remote) - $100,000/year USD\nSenior Full Stack Developer, 2 Hour Learning (Remote) - $100,000/year USD with verification",
-        "link": "https://www.linkedin.com/jobs/view/4028887766/",
-        "job_recruiter": "",
-        "job_location": "Belo Horizonte, Minas Gerais, Brazil (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
-    },
-    {
-        "company": "Crossover ",
-        "job_title": "Senior Software Engineer, Trilogy (Remote) - $60,000/year USD\nSenior Software Engineer, Trilogy (Remote) - $60,000/year USD with verification",
-        "link": "https://www.linkedin.com/jobs/view/4028885519/",
-        "job_recruiter": "",
-        "job_location": "Belo Horizonte, Minas Gerais, Brazil (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
-    },
-    {
-        "company": "HUNT IT Tech Recruitment Agency",
-        "job_title": "SENIOR C# ENGINEER\nSENIOR C# ENGINEER",
-        "link": "https://www.linkedin.com/jobs/view/4030540741/",
-        "job_recruiter": "",
-        "job_location": "Brazil (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
-    },
-    {
-        "company": "Crossover ",
-        "job_title": "Senior Software Developer, 2 Hour Learning (Remote) - $100,000/year USD\nSenior Software Developer, 2 Hour Learning (Remote) - $100,000/year USD with verification",
-        "link": "https://www.linkedin.com/jobs/view/4028889084/",
-        "job_recruiter": "",
-        "job_location": "Belo Horizonte, Minas Gerais, Brazil (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
-    },
-    {
-        "company": "CI&T",
-        "job_title": "Mid Level/Senior Developer Back End (.NET/AWS), Brasil\nMid Level/Senior Developer Back End (.NET/AWS), Brasil with verification",
-        "link": "https://www.linkedin.com/jobs/view/3985576738/",
-        "job_recruiter": "",
-        "job_location": "Brazil (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
-    },
-    {
-        "company": "HCLTech",
-        "job_title": "Software Engineer\nSoftware Engineer with verification",
-        "link": "https://www.linkedin.com/jobs/view/4027455919/",
-        "job_recruiter": "",
-        "job_location": "Brazil (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
-    },
-    {
-        "company": "vylex",
-        "job_title": "Tech Lead (full stack)\nTech Lead (full stack)",
-        "link": "https://www.linkedin.com/jobs/view/4031994566/",
-        "job_recruiter": "",
-        "job_location": "Brazil (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
-    },
-    {
-        "company": "GFT Technologies",
-        "job_title": "Fullstack - .NetCore/Angular Pleno/S\u00eanior\nFullstack - .NetCore/Angular Pleno/S\u00eanior with verification",
-        "link": "https://www.linkedin.com/jobs/view/3975245719/",
-        "job_recruiter": "",
-        "job_location": "Brazil (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
-    },
-    {
-        "company": "NOUS LATAM",
-        "job_title": "Senior C# Backend Developer (USD 4K month with stock options)\nSenior C# Backend Developer (USD 4K month with stock options)",
-        "link": "https://www.linkedin.com/jobs/view/4030771400/",
-        "job_recruiter": "",
-        "job_location": "Brazil (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
-    },
-    {
-        "company": "Luxoft",
-        "job_title": "Senior C# Developer, Remote Brazil\nSenior C# Developer, Remote Brazil with verification",
-        "link": "https://www.linkedin.com/jobs/view/4030716542/",
-        "job_recruiter": "",
-        "job_location": "Brazil (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
-    },
-    {
-        "company": "Crossover ",
-        "job_title": "Lead Software Engineer, Trilogy (Remote) - $60,000/year USD\nLead Software Engineer, Trilogy (Remote) - $60,000/year USD with verification",
-        "link": "https://www.linkedin.com/jobs/view/4028889188/",
-        "job_recruiter": "",
-        "job_location": "Belo Horizonte, Minas Gerais, Brazil (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
-    },
-    {
-        "company": "Crossover ",
-        "job_title": "Senior Developer, Trilogy (Remote) - $60,000/year USD\nSenior Developer, Trilogy (Remote) - $60,000/year USD with verification",
-        "link": "https://www.linkedin.com/jobs/view/4028890076/",
-        "job_recruiter": "",
-        "job_location": "Belo Horizonte, Minas Gerais, Brazil (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
-    },
-    {
-        "company": "GFT Technologies",
-        "job_title": "Desenvolvimento Python AWS - S\u00eanior\nDesenvolvimento Python AWS - S\u00eanior with verification",
-        "link": "https://www.linkedin.com/jobs/view/3943525174/",
-        "job_recruiter": "",
-        "job_location": "Brazil (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
     },
     {
         "company": "Oowlish",
-        "job_title": "Senior Tech Lead (LAMP Technologies)\nSenior Tech Lead (LAMP Technologies) with verification",
-        "link": "https://www.linkedin.com/jobs/view/4029297588/",
+        "job_title": "Full-Stack Developer with .NET & Azure Expertise",
+        "link": "https://www.linkedin.com/jobs/view/4049387368/",
+        "job_recruiter": "",
+        "job_location": "Greater Belo Horizonte (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "EPAM Systems",
+        "job_title": "Lead .NET Software Developer",
+        "link": "https://www.linkedin.com/jobs/view/4034882733/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "EPAM Systems",
+        "job_title": "Senior .NET Software Developer",
+        "link": "https://www.linkedin.com/jobs/view/4034880817/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Soutag",
+        "job_title": "Desenvolvedor Ruby on Rails Pleno",
+        "link": "https://www.linkedin.com/jobs/view/4050288385/",
         "job_recruiter": "",
         "job_location": "Belo Horizonte, Minas Gerais, Brazil (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
-    },
-    {
-        "company": "Remobi",
-        "job_title": "Software Engineering Manager\nSoftware Engineering Manager",
-        "link": "https://www.linkedin.com/jobs/view/4026548819/",
-        "job_recruiter": "",
-        "job_location": "Brazil (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
-    },
-    {
-        "company": "Luxoft",
-        "job_title": "Senior Software Developer\nSenior Software Developer with verification",
-        "link": "https://www.linkedin.com/jobs/view/4029466168/",
-        "job_recruiter": "",
-        "job_location": "Brazil (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
-    },
-    {
-        "company": "Luxoft",
-        "job_title": "Senior Software Engineer\nSenior Software Engineer with verification",
-        "link": "https://www.linkedin.com/jobs/view/4028778993/",
-        "job_recruiter": "",
-        "job_location": "Brazil (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
-    },
-    {
-        "company": "RecargaPay",
-        "job_title": "Tech Lead (PJ)\nTech Lead (PJ)",
-        "link": "https://www.linkedin.com/jobs/view/4031460768/",
-        "job_recruiter": "",
-        "job_location": "Brazil (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
-    },
-    {
-        "company": "Avenue",
-        "job_title": "Sr Software Engineer | Golang\nSr Software Engineer | Golang with verification",
-        "link": "https://www.linkedin.com/jobs/view/4030863781/",
-        "job_recruiter": "",
-        "job_location": "Brazil (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
-    },
-    {
-        "company": "Oowlish",
-        "job_title": "Senior Fullstack Engineer (React/TypeScript & RoR)\nSenior Fullstack Engineer (React/TypeScript & RoR) with verification",
-        "link": "https://www.linkedin.com/jobs/view/4029465524/",
-        "job_recruiter": "",
-        "job_location": "Belo Horizonte, Minas Gerais, Brazil (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
-    },
-    {
-        "company": "CI&T",
-        "job_title": "Senior Developer (Node.Js), Brasil\nSenior Developer (Node.Js), Brasil with verification",
-        "link": "https://www.linkedin.com/jobs/view/3988719658/",
-        "job_recruiter": "",
-        "job_location": "Brazil (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
-    },
-    {
-        "company": "Remobi",
-        "job_title": "Senior Software Engineer\nSenior Software Engineer",
-        "link": "https://www.linkedin.com/jobs/view/4009263719/",
-        "job_recruiter": "",
-        "job_location": "Brazil (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
-    },
-    {
-        "company": "Instituto Nacional de Telecomunica\u00e7\u00f5es - Inatel",
-        "job_title": "L\u00edder T\u00e9cnico de Software Sr. (React / NodeJS)\nL\u00edder T\u00e9cnico de Software Sr. (React / NodeJS) with verification",
-        "link": "https://www.linkedin.com/jobs/view/4031961743/",
-        "job_recruiter": "",
-        "job_location": "Brazil (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
-    },
-    {
-        "company": "BRQ Digital Solutions",
-        "job_title": "Profissional PEGA S\u00eanior\nProfissional PEGA S\u00eanior with verification",
-        "link": "https://www.linkedin.com/jobs/view/4031633897/",
-        "job_recruiter": "",
-        "job_location": "Brazil (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
-    },
-    {
-        "company": "RecargaPay",
-        "job_title": "Sr Software Engineer FullStack (CX)\nSr Software Engineer FullStack (CX)",
-        "link": "https://www.linkedin.com/jobs/view/4031428314/",
-        "job_recruiter": "",
-        "job_location": "Brazil (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
-    },
-    {
-        "company": "NOUS LATAM",
-        "job_title": "Senior React / C# (dotNet) Developer (up to USD 5.5K/month)\nSenior React / C# (dotNet) Developer (up to USD 5.5K/month)",
-        "link": "https://www.linkedin.com/jobs/view/4029762594/",
-        "job_recruiter": "",
-        "job_location": "Brazil (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
-    },
-    {
-        "company": "Hays",
-        "job_title": "Arquiteto de software\nArquiteto de software with verification",
-        "link": "https://www.linkedin.com/jobs/view/4010592415/",
-        "job_recruiter": "",
-        "job_location": "Brazil (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
-    },
-    {
-        "company": "RecargaPay",
-        "job_title": "Sr Software Engineer (Checkout)\nSr Software Engineer (Checkout)",
-        "link": "https://www.linkedin.com/jobs/view/4031414076/",
-        "job_recruiter": "",
-        "job_location": "Brazil (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
-    },
-    {
-        "company": "RecargaPay",
-        "job_title": "Sr Software Engineer (Payments/Sub-acquirer)\nSr Software Engineer (Payments/Sub-acquirer)",
-        "link": "https://www.linkedin.com/jobs/view/4028580508/",
-        "job_recruiter": "",
-        "job_location": "Brazil (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
-    },
-    {
-        "company": "team.it",
-        "job_title": "Senior .Net Developer\nSenior .Net Developer",
-        "link": "https://www.linkedin.com/jobs/view/4022868475/",
-        "job_recruiter": "",
-        "job_location": "Brazil (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
-    },
-    {
-        "company": "banQi",
-        "job_title": "Pessoa Engenheira de Software S\u00eanior Full Stack (Node/React)\nPessoa Engenheira de Software S\u00eanior Full Stack (Node/React)",
-        "link": "https://www.linkedin.com/jobs/view/4031922147/",
-        "job_recruiter": "",
-        "job_location": "Brazil (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
-    },
-    {
-        "company": "Getronics",
-        "job_title": "Desenvolvedor Fullstack Mobile - Remoto\nDesenvolvedor Fullstack Mobile - Remoto with verification",
-        "link": "https://www.linkedin.com/jobs/view/4018451447/",
-        "job_recruiter": "",
-        "job_location": "Brazil (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
-    },
-    {
-        "company": "Iterative;",
-        "job_title": "Desenvolvedor Fullstack Mendix S\u00eanior - Full Remoto\nDesenvolvedor Fullstack Mendix S\u00eanior - Full Remoto with verification",
-        "link": "https://www.linkedin.com/jobs/view/4032208189/",
-        "job_recruiter": "",
-        "job_location": "Brazil (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
-    },
-    {
-        "company": "EPAM Systems",
-        "job_title": "Senior \u0421++ Software Engineer\nSenior \u0421++ Software Engineer with verification",
-        "link": "https://www.linkedin.com/jobs/view/4034243310/",
-        "job_recruiter": "",
-        "job_location": "Brazil (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
-    },
-    {
-        "company": "Framework Digital",
-        "job_title": "Desenvolvedor OutSystems S\u00eanior\nDesenvolvedor OutSystems S\u00eanior with verification",
-        "link": "https://www.linkedin.com/jobs/view/4013580268/",
-        "job_recruiter": "",
-        "job_location": "Brazil (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
-    },
-    {
-        "company": "BRQ Digital Solutions",
-        "job_title": "Profissional Mobile IOs - PL\nProfissional Mobile IOs - PL with verification",
-        "link": "https://www.linkedin.com/jobs/view/4018166832/",
-        "job_recruiter": "",
-        "job_location": "Brazil (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
-    },
-    {
-        "company": "EPAM Systems",
-        "job_title": "Senior Data DevOps Engineer\nSenior Data DevOps Engineer with verification",
-        "link": "https://www.linkedin.com/jobs/view/4034238940/",
-        "job_recruiter": "",
-        "job_location": "Brazil (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
-    },
-    {
-        "company": "EPAM Systems",
-        "job_title": "Lead Cloud Engineer (GCP)\nLead Cloud Engineer (GCP) with verification",
-        "link": "https://www.linkedin.com/jobs/view/4034241499/",
-        "job_recruiter": "",
-        "job_location": "Brazil (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
-    },
-    {
-        "company": "EPAM Systems",
-        "job_title": "Senior Cloud Engineer (GCP)\nSenior Cloud Engineer (GCP) with verification",
-        "link": "https://www.linkedin.com/jobs/view/4034238944/",
-        "job_recruiter": "",
-        "job_location": "Brazil (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
-    },
-    {
-        "company": "RecargaPay",
-        "job_title": "Sr Software Engineer - Martech\nSr Software Engineer - Martech",
-        "link": "https://www.linkedin.com/jobs/view/4029996416/",
-        "job_recruiter": "",
-        "job_location": "Brazil (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
-    },
-    {
-        "company": "BRQ Digital Solutions",
-        "job_title": "Profissional Back End Java/Python - SR\nProfissional Back End Java/Python - SR with verification",
-        "link": "https://www.linkedin.com/jobs/view/4032203813/",
-        "job_recruiter": "",
-        "job_location": "Brazil (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
-    },
-    {
-        "company": "RecargaPay",
-        "job_title": "Sr. Software Engineer (Lending)\nSr. Software Engineer (Lending)",
-        "link": "https://www.linkedin.com/jobs/view/4031430209/",
-        "job_recruiter": "",
-        "job_location": "Brazil (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
-    },
-    {
-        "company": "RecargaPay",
-        "job_title": "Sr Software Engineer (Payments/Acquirer)\nSr Software Engineer (Payments/Acquirer)",
-        "link": "https://www.linkedin.com/jobs/view/4028789188/",
-        "job_recruiter": "",
-        "job_location": "Brazil (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
-    },
-    {
-        "company": "EPAM Systems",
-        "job_title": "Lead Data DevOps Engineer\nLead Data DevOps Engineer with verification",
-        "link": "https://www.linkedin.com/jobs/view/4034240708/",
-        "job_recruiter": "",
-        "job_location": "Brazil (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
-    },
-    {
-        "company": "Oowlish",
-        "job_title": "Node.js Software Engineer\nNode.js Software Engineer with verification",
-        "link": "https://www.linkedin.com/jobs/view/4029297236/",
-        "job_recruiter": "",
-        "job_location": "Belo Horizonte, Minas Gerais, Brazil (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
-    },
-    {
-        "company": "Dock",
-        "job_title": "Senior Software Engineer Node.js\nSenior Software Engineer Node.js with verification",
-        "link": "https://www.linkedin.com/jobs/view/4034257512/",
-        "job_recruiter": "",
-        "job_location": "Brazil (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
-    },
-    {
-        "company": "Pasquali Solution",
-        "job_title": "Tech Lead\nTech Lead",
-        "link": "https://www.linkedin.com/jobs/view/4032215613/",
-        "job_recruiter": "",
-        "job_location": "Brazil (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
-    },
-    {
-        "company": "Coltech Global",
-        "job_title": "Golang Engineer\nGolang Engineer",
-        "link": "https://www.linkedin.com/jobs/view/4032937729/",
-        "job_recruiter": "",
-        "job_location": "Brazil (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
-    },
-    {
-        "company": "FOURSYS",
-        "job_title": "Desenvolvedor(a) Bizagi Sr.\nDesenvolvedor(a) Bizagi Sr. with verification",
-        "link": "https://www.linkedin.com/jobs/view/4034310649/",
-        "job_recruiter": "",
-        "job_location": "Brazil (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
-    },
-    {
-        "company": "NINJIO Cybersecurity Awareness Training",
-        "job_title": "Software Architect (Brazil/Argentina)\nSoftware Architect (Brazil/Argentina) with verification",
-        "link": "https://www.linkedin.com/jobs/view/4026083261/",
-        "job_recruiter": "",
-        "job_location": "Brazil (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
-    },
-    {
-        "company": "Instituto Nacional de Telecomunica\u00e7\u00f5es - Inatel",
-        "job_title": "DevOps Sr\nDevOps Sr with verification",
-        "link": "https://www.linkedin.com/jobs/view/4031968229/",
-        "job_recruiter": "",
-        "job_location": "Brazil (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
-    },
-    {
-        "company": "Fidelis Security",
-        "job_title": "Software Developer\nSoftware Developer",
-        "link": "https://www.linkedin.com/jobs/view/4027696398/",
-        "job_recruiter": "",
-        "job_location": "Brazil (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
-    },
-    {
-        "company": "BRQ Digital Solutions",
-        "job_title": "Profissional Back end Java\nProfissional Back end Java with verification",
-        "link": "https://www.linkedin.com/jobs/view/4008468132/",
-        "job_recruiter": "",
-        "job_location": "Brazil (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
-    },
-    {
-        "company": "BRQ Digital Solutions",
-        "job_title": "Profissional Programador Low Code (Power Platform)\nProfissional Programador Low Code (Power Platform) with verification",
-        "link": "https://www.linkedin.com/jobs/view/4023225662/",
-        "job_recruiter": "",
-        "job_location": "Brazil (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
-    },
-    {
-        "company": "Solas IT Recruitment",
-        "job_title": "Software Engineering Manager\nSoftware Engineering Manager",
-        "link": "https://www.linkedin.com/jobs/view/4022019088/",
-        "job_recruiter": "",
-        "job_location": "Brazil (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
-    },
-    {
-        "company": "The Functionary",
-        "job_title": "Senior Software Engineer\nSenior Software Engineer with verification",
-        "link": "https://www.linkedin.com/jobs/view/4034300350/",
-        "job_recruiter": "",
-        "job_location": "Latin America (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
-    },
-    {
-        "company": "L.A. Head Hunter",
-        "job_title": "Work From Home Engineering Manager\nWork From Home Engineering Manager",
-        "link": "https://www.linkedin.com/jobs/view/4034317183/",
-        "job_recruiter": "",
-        "job_location": "Latin America (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
-    },
-    {
-        "company": "Stefanini Brasil",
-        "job_title": "Desenvolvedor (BPM)\nDesenvolvedor (BPM) with verification",
-        "link": "https://www.linkedin.com/jobs/view/4033705002/",
-        "job_recruiter": "",
-        "job_location": "Brazil (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
-    },
-    {
-        "company": "XPert Empreendimentos Eletr\u00f4nicos Ltda",
-        "job_title": "Arquiteto de software\nArquiteto de software",
-        "link": "https://www.linkedin.com/jobs/view/4031959965/",
-        "job_recruiter": "",
-        "job_location": "Brazil (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
-    },
-    {
-        "company": "Luxoft",
-        "job_title": "Senior Appian Developer\nSenior Appian Developer with verification",
-        "link": "https://www.linkedin.com/jobs/view/4033908203/",
-        "job_recruiter": "",
-        "job_location": "Brazil (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
-    },
-    {
-        "company": "EPAM Systems",
-        "job_title": "Senior Data DevOps Engineer\nSenior Data DevOps Engineer with verification",
-        "link": "https://www.linkedin.com/jobs/view/4034243259/",
-        "job_recruiter": "",
-        "job_location": "Brazil (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
-    },
-    {
-        "company": "EPAM Systems",
-        "job_title": "Lead Data DevOps Engineer\nLead Data DevOps Engineer with verification",
-        "link": "https://www.linkedin.com/jobs/view/4034244087/",
-        "job_recruiter": "",
-        "job_location": "Brazil (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
-    },
-    {
-        "company": "EPAM Systems",
-        "job_title": "Lead Functional Testing Engineer\nLead Functional Testing Engineer with verification",
-        "link": "https://www.linkedin.com/jobs/view/4034243283/",
-        "job_recruiter": "",
-        "job_location": "Brazil (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
-    },
-    {
-        "company": "EPAM Systems",
-        "job_title": "Senior ServiceNow Engineer\nSenior ServiceNow Engineer with verification",
-        "link": "https://www.linkedin.com/jobs/view/4034244090/",
-        "job_recruiter": "",
-        "job_location": "Brazil (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
-    },
-    {
-        "company": "WK JobHub",
-        "job_title": "Desenvolvedor Full-Stack Java S\u00eanior\nDesenvolvedor Full-Stack Java S\u00eanior with verification",
-        "link": "https://www.linkedin.com/jobs/view/4031971873/",
-        "job_recruiter": "",
-        "job_location": "Brazil (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
-    },
-    {
-        "company": "Vybrant",
-        "job_title": "Tech Lead | Java + React [ ingl\u00eas avan\u00e7ado ]\nTech Lead | Java + React [ ingl\u00eas avan\u00e7ado ]",
-        "link": "https://www.linkedin.com/jobs/view/4034314425/",
-        "job_recruiter": "",
-        "job_location": "Brazil (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
-    },
-    {
-        "company": "Develcode",
-        "job_title": "Desenvolvedor(a) React S\u00eanior\nDesenvolvedor(a) React S\u00eanior",
-        "link": "https://www.linkedin.com/jobs/view/4034259474/",
-        "job_recruiter": "",
-        "job_location": "Brazil (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
-    },
-    {
-        "company": "KSK - Kstack",
-        "job_title": "Desenvolvedor FullStack - SR\nDesenvolvedor FullStack - SR",
-        "link": "https://www.linkedin.com/jobs/view/4032205819/",
-        "job_recruiter": "",
-        "job_location": "Brazil (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
-    },
-    {
-        "company": "Inetum",
-        "job_title": "Consultor SAP PM\nConsultor SAP PM with verification",
-        "link": "https://www.linkedin.com/jobs/view/4015271555/",
-        "job_recruiter": "",
-        "job_location": "Brazil (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
-    },
-    {
-        "company": "FOURSYS",
-        "job_title": "Arquiteto Cloud\nArquiteto Cloud with verification",
-        "link": "https://www.linkedin.com/jobs/view/4032940323/",
-        "job_recruiter": "",
-        "job_location": "Brazil (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
-    },
-    {
-        "company": "Rain",
-        "job_title": "Back End Developer\nBack End Developer with verification",
-        "link": "https://www.linkedin.com/jobs/view/4032934798/",
-        "job_recruiter": "",
-        "job_location": "Brazil (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
-    },
-    {
-        "company": "Insightful Consulting",
-        "job_title": "Desenvolvedor FullStack S\u00eanior\nDesenvolvedor FullStack S\u00eanior",
-        "link": "https://www.linkedin.com/jobs/view/4031921397/",
-        "job_recruiter": "",
-        "job_location": "Brazil (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
-    },
-    {
-        "company": "YO HR Consultancy",
-        "job_title": "C++ Software Engineer\nC++ Software Engineer",
-        "link": "https://www.linkedin.com/jobs/view/4032864132/",
-        "job_recruiter": "",
-        "job_location": "Brazil (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
-    },
-    {
-        "company": "Headhunter",
-        "job_title": "Senior Frontend Developer (Opening in LATAM)\nSenior Frontend Developer (Opening in LATAM)",
-        "link": "https://www.linkedin.com/jobs/view/4032940344/",
-        "job_recruiter": "",
-        "job_location": "Brazil (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
-    },
-    {
-        "company": "Kake",
-        "job_title": "Senior Unity Engineer\nSenior Unity Engineer",
-        "link": "https://www.linkedin.com/jobs/view/4034307403/",
-        "job_recruiter": "",
-        "job_location": "Brazil (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
-    },
-    {
-        "company": "Mouts IT",
-        "job_title": "Especialista em Purview ou Unit Catalog\nEspecialista em Purview ou Unit Catalog with verification",
-        "link": "https://www.linkedin.com/jobs/view/4031935591/",
-        "job_recruiter": "",
-        "job_location": "Brazil (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
-    },
-    {
-        "company": "L.A. Head Hunter",
-        "job_title": "Work From Home Data Engineer\nWork From Home Data Engineer",
-        "link": "https://www.linkedin.com/jobs/view/4034314404/",
-        "job_recruiter": "",
-        "job_location": "Brazil (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
-    },
-    {
-        "company": "Dimensa Tecnologia",
-        "job_title": "Tech Lead Data Engineer (Banco de Talentos)\nTech Lead Data Engineer (Banco de Talentos) with verification",
-        "link": "https://www.linkedin.com/jobs/view/4032210207/",
-        "job_recruiter": "",
-        "job_location": "Brazil (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
-    },
-    {
-        "company": "Dimensa Tecnologia",
-        "job_title": "Arquiteto de Dados (Banco de Talentos)\nArquiteto de Dados (Banco de Talentos) with verification",
-        "link": "https://www.linkedin.com/jobs/view/4032205860/",
-        "job_recruiter": "",
-        "job_location": "Brazil (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
-    },
-    {
-        "company": "InComm Payments",
-        "job_title": "Magento Developer (Brazil)\nMagento Developer (Brazil) with verification",
-        "link": "https://www.linkedin.com/jobs/view/4032946217/",
-        "job_recruiter": "",
-        "job_location": "Brazil (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
-    },
-    {
-        "company": "Onbench",
-        "job_title": "SQL Developer / Business Analyst (familiar with US Accounting)\nSQL Developer / Business Analyst (familiar with US Accounting)",
-        "link": "https://www.linkedin.com/jobs/view/4032208153/",
-        "job_recruiter": "",
-        "job_location": "Brazil (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
-    },
-    {
-        "company": "CWI Software",
-        "job_title": "Desenvolvedor(a) Java com Webflux S\u00eanior\nDesenvolvedor(a) Java com Webflux S\u00eanior with verification",
-        "link": "https://www.linkedin.com/jobs/view/4031989650/",
-        "job_recruiter": "",
-        "job_location": "Brazil (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
-    },
-    {
-        "company": "Kaspper",
-        "job_title": "Desenvolvedor JAVA EE Backend Pleno/S\u00eanior\nDesenvolvedor JAVA EE Backend Pleno/S\u00eanior with verification",
-        "link": "https://www.linkedin.com/jobs/view/4032937286/",
-        "job_recruiter": "",
-        "job_location": "Brazil (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
-    },
-    {
-        "company": "Talently",
-        "job_title": "Senior Back End Developer\nSenior Back End Developer",
-        "link": "https://www.linkedin.com/jobs/view/4033999720/",
-        "job_recruiter": "",
-        "job_location": "Brazil (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
-    },
-    {
-        "company": "EPAM Systems",
-        "job_title": "\u0421++ Software Engineer\n\u0421++ Software Engineer with verification",
-        "link": "https://www.linkedin.com/jobs/view/4034239863/",
-        "job_recruiter": "",
-        "job_location": "Brazil (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
-    },
-    {
-        "company": "EPAM Systems",
-        "job_title": "ServiceNow Engineer\nServiceNow Engineer with verification",
-        "link": "https://www.linkedin.com/jobs/view/4034239882/",
-        "job_recruiter": "",
-        "job_location": "Brazil (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
-    },
-    {
-        "company": "Hrsoul",
-        "job_title": "Desenvolvedor Pegasystems \u2013 N\u00edvel S\u00eanior\nDesenvolvedor Pegasystems \u2013 N\u00edvel S\u00eanior",
-        "link": "https://www.linkedin.com/jobs/view/4031992584/",
-        "job_recruiter": "",
-        "job_location": "Brazil (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
-    },
-    {
-        "company": "Vybrant",
-        "job_title": "L\u00edder T\u00e9cnico (Java + React)\nL\u00edder T\u00e9cnico (Java + React)",
-        "link": "https://www.linkedin.com/jobs/view/4034216333/",
-        "job_recruiter": "",
-        "job_location": "Brazil (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
-    },
-    {
-        "company": "Abc Technology Des. Sol. Empr. S.A",
-        "job_title": "Desenvolvedor Java SR\nDesenvolvedor Java SR",
-        "link": "https://www.linkedin.com/jobs/view/4032210926/",
-        "job_recruiter": "",
-        "job_location": "Brazil (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
-    },
-    {
-        "company": "ENGESOFTWARE TECNOLOGIA S.A.",
-        "job_title": "Desenvolvedor .NET Pleno\nDesenvolvedor .NET Pleno with verification",
-        "link": "https://www.linkedin.com/jobs/view/4034311673/",
-        "job_recruiter": "",
-        "job_location": "Brazil (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
-    },
-    {
-        "company": "Segware",
-        "job_title": "Desenvolvedor S\u00eanior C++ / V\u00eddeo Back-end\nDesenvolvedor S\u00eanior C++ / V\u00eddeo Back-end",
-        "link": "https://www.linkedin.com/jobs/view/4031939765/",
-        "job_recruiter": "",
-        "job_location": "Brazil (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
-    },
-    {
-        "company": "BRQ Digital Solutions",
-        "job_title": "Profissional Back End \u2013 Java/Nodejs PL\nProfissional Back End \u2013 Java/Nodejs PL with verification",
-        "link": "https://www.linkedin.com/jobs/view/4026503657/",
-        "job_recruiter": "",
-        "job_location": "Brazil (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
-    },
-    {
-        "company": "CWI Software",
-        "job_title": "Desenvolvedor Salesforce - S\u00eanior\nDesenvolvedor Salesforce - S\u00eanior with verification",
-        "link": "https://www.linkedin.com/jobs/view/4032205785/",
-        "job_recruiter": "",
-        "job_location": "Brazil (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
-    },
-    {
-        "company": "Iteris Consultoria e Software",
-        "job_title": "[Remoto | Projeto Internacional] Pl/Sr DevOps Engineer\n[Remoto | Projeto Internacional] Pl/Sr DevOps Engineer with verification",
-        "link": "https://www.linkedin.com/jobs/view/4034297584/",
-        "job_recruiter": "",
-        "job_location": "Brazil (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
     },
     {
         "company": "Encora Inc.",
-        "job_title": "Tech Lead JavaScript Fullstack\nTech Lead JavaScript Fullstack with verification",
-        "link": "https://www.linkedin.com/jobs/view/4004335409/",
+        "job_title": "NET/C# Developer SR",
+        "link": "https://www.linkedin.com/jobs/view/4051238267/",
         "job_recruiter": "",
         "job_location": "Brazil (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
     },
     {
-        "company": "Pasquali Solution",
-        "job_title": "Desenvolvedor PowerBuilder\nDesenvolvedor PowerBuilder",
-        "link": "https://www.linkedin.com/jobs/view/4026589095/",
+        "company": "Solas IT Recruitment",
+        "job_title": "Senior .NET Developer (Graph Database Experience)",
+        "link": "https://www.linkedin.com/jobs/view/4051755157/",
         "job_recruiter": "",
         "job_location": "Brazil (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
     },
     {
-        "company": "RecargaPay",
-        "job_title": "Sr Data Scientist Analyst (Martech)\nSr Data Scientist Analyst (Martech)",
-        "link": "https://www.linkedin.com/jobs/view/4034300291/",
+        "company": "Encora Inc.",
+        "job_title": "Tech Lead JavaScript Fullstack",
+        "link": "https://www.linkedin.com/jobs/view/4054590137/",
         "job_recruiter": "",
         "job_location": "Brazil (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
     },
     {
-        "company": "CBYK Consultoria",
-        "job_title": "Desenvolvedor Java S\u00eanior\nDesenvolvedor Java S\u00eanior with verification",
-        "link": "https://www.linkedin.com/jobs/view/4031935705/",
+        "company": "L.A. Head Hunter",
+        "job_title": "Work From Home .NET Developer",
+        "link": "https://www.linkedin.com/jobs/view/4048220199/",
         "job_recruiter": "",
         "job_location": "Brazil (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
     },
     {
-        "company": "Datamob",
-        "job_title": "Desenvolvedor Mobile Senior\nDesenvolvedor Mobile Senior",
-        "link": "https://www.linkedin.com/jobs/view/4029071053/",
+        "company": "CI&T",
+        "job_title": "Senior Node.JS Software Architect, Brazil",
+        "link": "https://www.linkedin.com/jobs/view/4055728402/",
         "job_recruiter": "",
         "job_location": "Brazil (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
     },
     {
-        "company": "GBT Solutions, Lda",
-        "job_title": "Senior Java Architect\nSenior Java Architect",
-        "link": "https://www.linkedin.com/jobs/view/4032872936/",
+        "company": "Sensedia",
+        "job_title": "Software Architect (9159)",
+        "link": "https://www.linkedin.com/jobs/view/4051040410/",
         "job_recruiter": "",
         "job_location": "Brazil (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
     },
     {
-        "company": "The Functionary",
-        "job_title": "Senior Software Engineer (AI/ML)\nSenior Software Engineer (AI/ML) with verification",
-        "link": "https://www.linkedin.com/jobs/view/4034301260/",
-        "job_recruiter": "",
-        "job_location": "Latin America (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
-    },
-    {
-        "company": "CWI Software",
-        "job_title": "Desenvolvedor(a) Java S\u00eanior\nDesenvolvedor(a) Java S\u00eanior with verification",
-        "link": "https://www.linkedin.com/jobs/view/4031935306/",
+        "company": "CI&T",
+        "job_title": "Software Architect, Brazil",
+        "link": "https://www.linkedin.com/jobs/view/4053987185/",
         "job_recruiter": "",
         "job_location": "Brazil (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
     },
     {
-        "company": "FOURSYS",
-        "job_title": "Desenvolvedor de back end\nDesenvolvedor de back end with verification",
-        "link": "https://www.linkedin.com/jobs/view/4034313573/",
+        "company": "Applaudo",
+        "job_title": ".NET Developer",
+        "link": "https://www.linkedin.com/jobs/view/4053433061/",
         "job_recruiter": "",
         "job_location": "Brazil (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
     },
     {
-        "company": "Cilia Tecnologia",
-        "job_title": "Desenvolvedor Java\nDesenvolvedor Java",
-        "link": "https://www.linkedin.com/jobs/view/4031122647/",
+        "company": "Nearsure",
+        "job_title": "Staff Software Test Engineer - Work from home",
+        "link": "https://www.linkedin.com/jobs/view/4053510095/",
         "job_recruiter": "",
-        "job_location": "Brazil (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
+        "job_location": "Greater Belo Horizonte (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
     },
     {
-        "company": "G4F",
-        "job_title": "Gerente de projetos\nGerente de projetos with verification",
-        "link": "https://www.linkedin.com/jobs/view/4025532938/",
+        "company": "Harvey Nash",
+        "job_title": "Full Stack Engineer",
+        "link": "https://www.linkedin.com/jobs/view/4051999738/",
         "job_recruiter": "",
         "job_location": "Brazil (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
     },
     {
-        "company": "Mirante Tecnologia",
-        "job_title": "Desenvolvedor Full Stack Java\nDesenvolvedor Full Stack Java",
-        "link": "https://www.linkedin.com/jobs/view/4034210815/",
+        "company": "CI&T",
+        "job_title": "Master DevOps Engineer (Azure), Brazil",
+        "link": "https://www.linkedin.com/jobs/view/4055728382/",
         "job_recruiter": "",
         "job_location": "Brazil (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "CI&T",
+        "job_title": "Senior DevOps Engineer (Azure), Brazil",
+        "link": "https://www.linkedin.com/jobs/view/4055731321/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Psm Company",
+        "job_title": "Engenheiro de software .NET",
+        "link": "https://www.linkedin.com/jobs/view/4048258381/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Stone",
+        "job_title": "[Engineering Platform] Senior Data Engineer (Governance)",
+        "link": "https://www.linkedin.com/jobs/view/3998594243/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Avenue Code",
+        "job_title": "Fullstack Engineer (.NET + React)",
+        "link": "https://www.linkedin.com/jobs/view/4055785785/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Oowlish",
+        "job_title": "Machine Learning Engineer",
+        "link": "https://www.linkedin.com/jobs/view/4035925166/",
+        "job_recruiter": "",
+        "job_location": "Belo Horizonte, Minas Gerais, Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Coinbase",
+        "job_title": "Senior Software Engineer, Enterprise Apps",
+        "link": "https://www.linkedin.com/jobs/view/4033193588/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "CI&T",
+        "job_title": "Fullstack, Software Architect, Brazil",
+        "link": "https://www.linkedin.com/jobs/view/4055727881/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "CI&T",
+        "job_title": "Senior Software Architect, Brazil",
+        "link": "https://www.linkedin.com/jobs/view/4055730359/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Stone",
+        "job_title": "[Engineering Platform] Sr Data Platform Engineer",
+        "link": "https://www.linkedin.com/jobs/view/4014106415/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Luizalabs",
+        "job_title": "Desenvolvedor (a) Backend S\u00eanior",
+        "link": "https://www.linkedin.com/jobs/view/4047683080/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Avenue Code",
+        "job_title": "Senior BackEnd Engineer (Typescript)",
+        "link": "https://www.linkedin.com/jobs/view/4055789416/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "System Soft Technologies",
+        "job_title": "Dotnet Developer",
+        "link": "https://www.linkedin.com/jobs/view/4052280235/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "CI&T",
+        "job_title": "Senior Node Back End Developer, Brazil",
+        "link": "https://www.linkedin.com/jobs/view/4055727878/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "CI&T",
+        "job_title": "Senior Developer Kotlin (Backend), Brazil",
+        "link": "https://www.linkedin.com/jobs/view/4055730373/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Juntos Somos Mais",
+        "job_title": "S\u00eanior Software Engineer _Python",
+        "link": "https://www.linkedin.com/jobs/view/4051004246/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Remessa Online",
+        "job_title": "Banco de Talentos - Backend Software Developer - Pleno e S\u00eanior",
+        "link": "https://www.linkedin.com/jobs/view/4051857230/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
     },
     {
         "company": "GeorgiaTEK Systems Inc.",
-        "job_title": "MongoDB Architect\nMongoDB Architect",
-        "link": "https://www.linkedin.com/jobs/view/4032874196/",
-        "job_recruiter": "",
-        "job_location": "Latin America (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
-    },
-    {
-        "company": "Dimensa Tecnologia",
-        "job_title": "Senior Data Engineer (Banco de Talentos)\nSenior Data Engineer (Banco de Talentos) with verification",
-        "link": "https://www.linkedin.com/jobs/view/4032205808/",
+        "job_title": ".Net Developer",
+        "link": "https://www.linkedin.com/jobs/view/4052667890/",
         "job_recruiter": "",
         "job_location": "Brazil (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Beyond",
+        "job_title": "Senior Backend Engineer",
+        "link": "https://www.linkedin.com/jobs/view/4053370675/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Luxury Presence",
+        "job_title": "Staff Software Engineer - LATAM (Remote)",
+        "link": "https://www.linkedin.com/jobs/view/4049378226/",
+        "job_recruiter": "",
+        "job_location": "Latin America (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Ranger Technical Resources",
+        "job_title": "Principal Software Engineer",
+        "link": "https://www.linkedin.com/jobs/view/4053986240/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Oowlish",
+        "job_title": "AI Applications Developer (Python)",
+        "link": "https://www.linkedin.com/jobs/view/4049913987/",
+        "job_recruiter": "",
+        "job_location": "Greater Belo Horizonte (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "TRM Labs",
+        "job_title": "Senior Software Engineer, Frontend",
+        "link": "https://www.linkedin.com/jobs/view/3948593879/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Pilar",
+        "job_title": "Senior Software Engineer",
+        "link": "https://www.linkedin.com/jobs/view/4053855189/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Oowlish",
+        "job_title": "Java Developer",
+        "link": "https://www.linkedin.com/jobs/view/4049953765/",
+        "job_recruiter": "",
+        "job_location": "Belo Horizonte, Minas Gerais, Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Oowlish",
+        "job_title": "Data Science & Machine Learning Engineer",
+        "link": "https://www.linkedin.com/jobs/view/4049974037/",
+        "job_recruiter": "",
+        "job_location": "Belo Horizonte, Minas Gerais, Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Luizalabs",
+        "job_title": "Desenvolvedor (a) S\u00eanior",
+        "link": "https://www.linkedin.com/jobs/view/4051819823/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "RecargaPay",
+        "job_title": "Sr. Software Engineer (Identity)",
+        "link": "https://www.linkedin.com/jobs/view/4053081143/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Sys Manager",
+        "job_title": "Desenvolvedor(a) Backend",
+        "link": "https://www.linkedin.com/jobs/view/4049595259/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Signify Technology",
+        "job_title": "Full Stack Engineer",
+        "link": "https://www.linkedin.com/jobs/view/4050829366/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "WES",
+        "job_title": "PP \u2013 Fullstack SDK Engineer",
+        "link": "https://www.linkedin.com/jobs/view/4048804535/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Getronics",
+        "job_title": "Desenvolvedor Plataforma Service Now - Remoto",
+        "link": "https://www.linkedin.com/jobs/view/4050834418/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "CI&T",
+        "job_title": "Senior Java Software Architect, Brazil",
+        "link": "https://www.linkedin.com/jobs/view/4055732310/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "BetterEngineer",
+        "job_title": "Senior Full Stack Engineer (Remote)",
+        "link": "https://www.linkedin.com/jobs/view/4049509775/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "CI&T",
+        "job_title": "Senior Developer Fullstack (Vuejs + Quarkus), Brazil",
+        "link": "https://www.linkedin.com/jobs/view/4055732311/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "INDI Staffing Services",
+        "job_title": "Node Developer - Remote",
+        "link": "https://www.linkedin.com/jobs/view/4052749565/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Ranger Technical Resources",
+        "job_title": "REACT/ elixir developer",
+        "link": "https://www.linkedin.com/jobs/view/4043121352/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "CI&T",
+        "job_title": "Mid/Sr Fullstack Developer (React/Node), Brazil",
+        "link": "https://www.linkedin.com/jobs/view/4052047767/",
+        "job_recruiter": "",
+        "job_location": "Greater Belo Horizonte (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "CI&T",
+        "job_title": "Developer Sr fullstack React + nodeJS",
+        "link": "https://www.linkedin.com/jobs/view/4053419676/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Profectum",
+        "job_title": "Desenvolvedor Full Stack SR",
+        "link": "https://www.linkedin.com/jobs/view/4054403182/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
     },
     {
         "company": "act digital",
-        "job_title": "Pessoa Desenvolvedora Java S\u00eanior (EJB)\nPessoa Desenvolvedora Java S\u00eanior (EJB) with verification",
-        "link": "https://www.linkedin.com/jobs/view/3999081223/",
+        "job_title": "Especialista Github",
+        "link": "https://www.linkedin.com/jobs/view/4050279050/",
         "job_recruiter": "",
         "job_location": "Brazil (Remote)",
-        "pdf_path": "file:///C:/Projetos/Github_outrosrepositorios/linkedIn_auto_jobs_applier_with_AI"
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "DataArt",
+        "job_title": "Senior C++ Developer, Accounting Systems",
+        "link": "https://www.linkedin.com/jobs/view/4051830599/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "GeorgiaTEK Systems Inc.",
+        "job_title": ".Net Developer",
+        "link": "https://www.linkedin.com/jobs/view/4052672679/",
+        "job_recruiter": "",
+        "job_location": "Latin America (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "SUSE",
+        "job_title": "Software Engineer (Golang)",
+        "link": "https://www.linkedin.com/jobs/view/4034618699/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Ewave do Brasil",
+        "job_title": "Desenvolvedor full stack",
+        "link": "https://www.linkedin.com/jobs/view/4050278376/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "RE Partners",
+        "job_title": "Senior Fullstack Engineer",
+        "link": "https://www.linkedin.com/jobs/view/4054522312/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "TAKING",
+        "job_title": "Desenvolvedor full stack",
+        "link": "https://www.linkedin.com/jobs/view/4052175603/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Invillia",
+        "job_title": "Mid Backend Python Developer - (100% Remoto)",
+        "link": "https://www.linkedin.com/jobs/view/4053847797/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "XP Educa\u00e7\u00e3o",
+        "job_title": "Pessoa Desenvolvedora Back End - Python",
+        "link": "https://www.linkedin.com/jobs/view/4051894087/",
+        "job_recruiter": "",
+        "job_location": "Belo Horizonte, Minas Gerais, Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Workling",
+        "job_title": "PHP Developer (Remote From Anywhere)",
+        "link": "https://www.linkedin.com/jobs/view/4052147282/",
+        "job_recruiter": "",
+        "job_location": "Belo Horizonte, Minas Gerais, Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Luizalabs",
+        "job_title": "Engenheiro (a) de Dados/Desenvolvedor (a) S\u00eanior",
+        "link": "https://www.linkedin.com/jobs/view/4051847103/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "idwall",
+        "job_title": "Desenvolvedor Mobile [h\u00edbrido]",
+        "link": "https://www.linkedin.com/jobs/view/4048251218/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "INDI Staffing Services",
+        "job_title": "Junior .NET Developer - Remote",
+        "link": "https://www.linkedin.com/jobs/view/4052351137/",
+        "job_recruiter": "",
+        "job_location": "Greater Belo Horizonte (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Rain",
+        "job_title": "Frontend Engineer, Web Developer",
+        "link": "https://www.linkedin.com/jobs/view/4048452918/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Workling",
+        "job_title": "Junior Python Developer (Remote From Anywhere)",
+        "link": "https://www.linkedin.com/jobs/view/4052142325/",
+        "job_recruiter": "",
+        "job_location": "Belo Horizonte, Minas Gerais, Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Bitso",
+        "job_title": "Senior Software Engineer, Core Services (Latam)",
+        "link": "https://www.linkedin.com/jobs/view/3982982926/",
+        "job_recruiter": "",
+        "job_location": "Latin America (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "TalentX Digital [Attract.Ignite.Triumph.]",
+        "job_title": "PRINCIPAL SOFTWARE ENGINEER",
+        "link": "https://www.linkedin.com/jobs/view/4047685828/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Encora Inc.",
+        "job_title": "Data Engineering Developer",
+        "link": "https://www.linkedin.com/jobs/view/4051258209/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "CI&T",
+        "job_title": "Senior Software Architect - Java, Brasil",
+        "link": "https://www.linkedin.com/jobs/view/4029253577/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "CI&T",
+        "job_title": "Senior/Mid Level Devops, Brazil",
+        "link": "https://www.linkedin.com/jobs/view/4053079930/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "CI&T",
+        "job_title": "Mid-Level DevOps, Brazil",
+        "link": "https://www.linkedin.com/jobs/view/4052422980/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Develcode",
+        "job_title": "Desenvolvedor(a) Java 7 legado S\u00eanior",
+        "link": "https://www.linkedin.com/jobs/view/4051757627/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Startup",
+        "job_title": "Elixir Backend Engineer",
+        "link": "https://www.linkedin.com/jobs/view/4052340982/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "CI&T",
+        "job_title": "Mid/Sr Fullstack Developer (React/Node), Brazil",
+        "link": "https://www.linkedin.com/jobs/view/4052051733/",
+        "job_recruiter": "",
+        "job_location": "Greater Belo Horizonte (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Stefanini Brasil",
+        "job_title": "Dev Fullstack SR  (React, Angular, TS, JS) - Ingl\u00eas Avan\u00e7ado",
+        "link": "https://www.linkedin.com/jobs/view/4052462512/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "EPAM Systems",
+        "job_title": "Senior Data DevOps Engineer",
+        "link": "https://www.linkedin.com/jobs/view/4037003368/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Luxoft",
+        "job_title": "Lead Software Developer - React Native, Remote Brazil",
+        "link": "https://www.linkedin.com/jobs/view/4052480636/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "L.A. Head Hunter",
+        "job_title": "Work From Home Data Engineer",
+        "link": "https://www.linkedin.com/jobs/view/4048221370/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Pasquali Solution",
+        "job_title": "Desenvolvedor Full Stack Senior",
+        "link": "https://www.linkedin.com/jobs/view/4052264376/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Cast group",
+        "job_title": "Desenvolvedor full stack",
+        "link": "https://www.linkedin.com/jobs/view/4052214085/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Avenue Code",
+        "job_title": "Data Engineer",
+        "link": "https://www.linkedin.com/jobs/view/4055791106/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "GFT Technologies",
+        "job_title": "Desenvolvedor Javascript",
+        "link": "https://www.linkedin.com/jobs/view/4050828557/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Avenue Code",
+        "job_title": "Frontend Engineer",
+        "link": "https://www.linkedin.com/jobs/view/4055788526/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Talently",
+        "job_title": "Senior Full Stack Engineer",
+        "link": "https://www.linkedin.com/jobs/view/4055783117/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "BetterEngineer",
+        "job_title": "Senior Full Stack Engineer (Remote)",
+        "link": "https://www.linkedin.com/jobs/view/4049513487/",
+        "job_recruiter": "",
+        "job_location": "Latin America (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Sezzle",
+        "job_title": "Senior Software Engineer (LATAM)",
+        "link": "https://www.linkedin.com/jobs/view/3777793472/",
+        "job_recruiter": "",
+        "job_location": "Latin America (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "BRQ Digital Solutions",
+        "job_title": "Profissional Front-End Angular",
+        "link": "https://www.linkedin.com/jobs/view/4050883860/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Getronics",
+        "job_title": "Engenheiro de Software - Remoto",
+        "link": "https://www.linkedin.com/jobs/view/4042953034/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Acendeo",
+        "job_title": "Full Stack Engineer",
+        "link": "https://www.linkedin.com/jobs/view/4048243528/",
+        "job_recruiter": "",
+        "job_location": "Latin America (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Venice Technology",
+        "job_title": "Desenvolvedor Laravel MVC S\u00eanior",
+        "link": "https://www.linkedin.com/jobs/view/4053520249/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "FOURSYS",
+        "job_title": "Dev. Front-End React JS S\u00eanior",
+        "link": "https://www.linkedin.com/jobs/view/4052035026/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Avenue Code",
+        "job_title": "Senior Front-end Engineer",
+        "link": "https://www.linkedin.com/jobs/view/4055786731/",
+        "job_recruiter": "",
+        "job_location": "Latin America (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "CI&T",
+        "job_title": "Sr Mulesoft Developer - Brasil",
+        "link": "https://www.linkedin.com/jobs/view/4033441478/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "QAT Global | Custom Software Development",
+        "job_title": "Full Stack Engineer",
+        "link": "https://www.linkedin.com/jobs/view/4053501855/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Luxoft",
+        "job_title": "Lead Software Developer - React Native",
+        "link": "https://www.linkedin.com/jobs/view/4054248976/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "CI&T",
+        "job_title": "Mid-Level Mulesoft Developer - Brasil",
+        "link": "https://www.linkedin.com/jobs/view/4033440521/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "EPAM Systems",
+        "job_title": "Lead Data DevOps Engineer",
+        "link": "https://www.linkedin.com/jobs/view/4034240708/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "L.A. Head Hunter",
+        "job_title": "Work From Home Python Engineer",
+        "link": "https://www.linkedin.com/jobs/view/4048235871/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Insight Global",
+        "job_title": "Azure DevOps Engineer",
+        "link": "https://www.linkedin.com/jobs/view/4051217507/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "CI&T",
+        "job_title": "Senior Software Architect - Java",
+        "link": "https://www.linkedin.com/jobs/view/4051716916/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "TurnKey Tech Staffing",
+        "job_title": "Senior Frontend Developer",
+        "link": "https://www.linkedin.com/jobs/view/4051038464/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "CI&T",
+        "job_title": "Senior Drupal Developer, Brazil",
+        "link": "https://www.linkedin.com/jobs/view/4049927462/",
+        "job_recruiter": "",
+        "job_location": "Greater Belo Horizonte (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Hays",
+        "job_title": "Desenvolvedor full stack",
+        "link": "https://www.linkedin.com/jobs/view/4051144412/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "EPAM Systems",
+        "job_title": "Data DevOps Engineer",
+        "link": "https://www.linkedin.com/jobs/view/4037098999/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Luizalabs",
+        "job_title": "Desenvolvedor(a) Pleno",
+        "link": "https://www.linkedin.com/jobs/view/4051815719/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "NOUS LATAM",
+        "job_title": "Senior Fullstack Javascript Developer (USD 3.5-5K/month)",
+        "link": "https://www.linkedin.com/jobs/view/4053887605/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "truData Solutions",
+        "job_title": "Lead Outsystems Engineer",
+        "link": "https://www.linkedin.com/jobs/view/4051216600/",
+        "job_recruiter": "",
+        "job_location": "Latin America (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Startup",
+        "job_title": "Elixir Backend Engineer",
+        "link": "https://www.linkedin.com/jobs/view/4051789868/",
+        "job_recruiter": "",
+        "job_location": "Latin America (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Distillery",
+        "job_title": "Senior FullStack Developer with Retool",
+        "link": "https://www.linkedin.com/jobs/view/4052218126/",
+        "job_recruiter": "",
+        "job_location": "Latin America (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Imagem Geosistemas",
+        "job_title": "Desenvolvedor Full Stack S\u00eanior",
+        "link": "https://www.linkedin.com/jobs/view/4048829422/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "mazzatech",
+        "job_title": "Senior iOS Engineer",
+        "link": "https://www.linkedin.com/jobs/view/4052225582/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "GlobalLogic",
+        "job_title": "Software Engineer",
+        "link": "https://www.linkedin.com/jobs/view/4048451690/",
+        "job_recruiter": "",
+        "job_location": "Latin America (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Aditi LATAM",
+        "job_title": "Senior Microsoft Developer",
+        "link": "https://www.linkedin.com/jobs/view/4053366514/",
+        "job_recruiter": "",
+        "job_location": "Latin America (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "MyClean",
+        "job_title": "Senior Back-end NodeJS Developer",
+        "link": "https://www.linkedin.com/jobs/view/4051519228/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Bitso",
+        "job_title": "Platform Engineer - Latam",
+        "link": "https://www.linkedin.com/jobs/view/4034489678/",
+        "job_recruiter": "",
+        "job_location": "Latin America (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Aditi LATAM",
+        "job_title": "Sr Microsoft Developer",
+        "link": "https://www.linkedin.com/jobs/view/4052197589/",
+        "job_recruiter": "",
+        "job_location": "Latin America (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Blankfactor",
+        "job_title": "Lead Software Engineer Node.js & Angular",
+        "link": "https://www.linkedin.com/jobs/view/4053218807/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "EPAM Systems",
+        "job_title": "Senior Data DevOps Engineer",
+        "link": "https://www.linkedin.com/jobs/view/4034238940/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "EPAM Systems",
+        "job_title": "Lead Data DevOps Engineer",
+        "link": "https://www.linkedin.com/jobs/view/4034244087/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "CI&T",
+        "job_title": "S\u00eanior Java Developer, Brazil",
+        "link": "https://www.linkedin.com/jobs/view/4055731318/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "CI&T",
+        "job_title": "Developer Java Senior (C/AWS)",
+        "link": "https://www.linkedin.com/jobs/view/4051713984/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "CI&T",
+        "job_title": "Master DevOps Engineer (AWS), Brazil",
+        "link": "https://www.linkedin.com/jobs/view/4055727887/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Luxoft",
+        "job_title": "Lead Software Developer - React Native",
+        "link": "https://www.linkedin.com/jobs/view/4053994813/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "CI&T",
+        "job_title": "[Jo 18359} Mid-level Developer Fullstack (Python+ReactJS)",
+        "link": "https://www.linkedin.com/jobs/view/4052353639/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "EPAM Systems",
+        "job_title": "ServiceNow Engineer",
+        "link": "https://www.linkedin.com/jobs/view/4034239882/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "team.it",
+        "job_title": "Senior Python Developer",
+        "link": "https://www.linkedin.com/jobs/view/4049333133/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Deloitte",
+        "job_title": "Desenvolvedor(a) Full Stack , React e Java Sr.",
+        "link": "https://www.linkedin.com/jobs/view/4051750416/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Guidewire Software",
+        "job_title": "Site Reliability Engineer",
+        "link": "https://www.linkedin.com/jobs/view/4036717267/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Stone",
+        "job_title": "[Interaction Platform] Software Engineer Mobile III | Destinada a PcD",
+        "link": "https://www.linkedin.com/jobs/view/3998591651/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Rocket Financial Inc",
+        "job_title": "Senior Software Engineer",
+        "link": "https://www.linkedin.com/jobs/view/4053373800/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "GFT Technologies",
+        "job_title": "Desenvolvimento Kotlin - S\u00eanior",
+        "link": "https://www.linkedin.com/jobs/view/4039034225/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Mutant",
+        "job_title": "Engenheiro de Software Especialista em IA (Foco em IA Generativa)",
+        "link": "https://www.linkedin.com/jobs/view/4053090752/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Minsait",
+        "job_title": "Desenvolvedores Fullstack Angular e Java",
+        "link": "https://www.linkedin.com/jobs/view/4048087558/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Mirante Tecnologia",
+        "job_title": "Desenvolvedor OutSystems",
+        "link": "https://www.linkedin.com/jobs/view/4051439330/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Avenue Code",
+        "job_title": "Senior QA Engineer",
+        "link": "https://www.linkedin.com/jobs/view/4055790239/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Luizalabs",
+        "job_title": "Desenvolvedor (a) Pleno",
+        "link": "https://www.linkedin.com/jobs/view/4051826244/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Collabera",
+        "job_title": "Lead Infrastructure Engineer",
+        "link": "https://www.linkedin.com/jobs/view/4053526897/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "WAYON IT Solutions",
+        "job_title": "Engenheiro Python Sr.",
+        "link": "https://www.linkedin.com/jobs/view/4051655055/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "SysMap Solutions",
+        "job_title": "Desenvolvedor Front End Mobile PL/SR #8909",
+        "link": "https://www.linkedin.com/jobs/view/4048293685/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Avenue Code",
+        "job_title": "Senior Java Engineer",
+        "link": "https://www.linkedin.com/jobs/view/4055785790/",
+        "job_recruiter": "",
+        "job_location": "Latin America (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "GFT Technologies",
+        "job_title": "Desenvolvedor Javascript",
+        "link": "https://www.linkedin.com/jobs/view/4050829384/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Avenue Code",
+        "job_title": "Senior Data Engineer",
+        "link": "https://www.linkedin.com/jobs/view/4055789414/",
+        "job_recruiter": "",
+        "job_location": "Latin America (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Pulsaris Brasil",
+        "job_title": "Desenvolvedor Oracle PL/SQL Senior",
+        "link": "https://www.linkedin.com/jobs/view/4052988254/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Iterative;",
+        "job_title": "Desenvolvedor Java/ Mendix (Low code) Fullstack Pleno/Sr- Full Remoto",
+        "link": "https://www.linkedin.com/jobs/view/4048081281/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "CI&T",
+        "job_title": "Senior Developer DevOps (AWS + Java), Brasil",
+        "link": "https://www.linkedin.com/jobs/view/4035774289/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "CI&T",
+        "job_title": "Senior Android Developer, Brazil",
+        "link": "https://www.linkedin.com/jobs/view/4053058459/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "EPAM Systems",
+        "job_title": "Senior Data DevOps Engineer",
+        "link": "https://www.linkedin.com/jobs/view/4034243259/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "CI&T",
+        "job_title": "Mid Senior Backend Developer, Brasil - [Vaga afirmativa para mulheres",
+        "link": "https://www.linkedin.com/jobs/view/4055729391/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "CI&T",
+        "job_title": "Senior Java Software Architect, Brazil",
+        "link": "https://www.linkedin.com/jobs/view/4055730358/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "EPAM Systems",
+        "job_title": "Senior Java Developer",
+        "link": "https://www.linkedin.com/jobs/view/4033565507/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Avenue Code",
+        "job_title": "Firmware Developer",
+        "link": "https://www.linkedin.com/jobs/view/4055790237/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "INDI Staffing Services",
+        "job_title": "Junior Node Developer - Remote",
+        "link": "https://www.linkedin.com/jobs/view/4052348742/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Builders",
+        "job_title": "Systems Engineer - AI",
+        "link": "https://www.linkedin.com/jobs/view/4053104478/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Kokku",
+        "job_title": "Senior Software Engineer - Python",
+        "link": "https://www.linkedin.com/jobs/view/4053090431/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "SuperFrete",
+        "job_title": "DevOps Engineer Senior",
+        "link": "https://www.linkedin.com/jobs/view/4053984457/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Rain Technologies Inc.",
+        "job_title": "Frontend Engineer, Web Developer",
+        "link": "https://www.linkedin.com/jobs/view/4048692577/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "FOURSYS",
+        "job_title": "Desenvolvedor (a) de front-end",
+        "link": "https://www.linkedin.com/jobs/view/4051718087/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Hyqoo ",
+        "job_title": "Lead Infrastructure Engineer",
+        "link": "https://www.linkedin.com/jobs/view/4053392978/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Growyx",
+        "job_title": "Desenvolvedor(a) Full-Stack S\u00eanior",
+        "link": "https://www.linkedin.com/jobs/view/4051839738/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "IFIT Solutions",
+        "job_title": "Full Stack Engineer",
+        "link": "https://www.linkedin.com/jobs/view/4051881065/",
+        "job_recruiter": "",
+        "job_location": "Latin America (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Yalo",
+        "job_title": "Go / Golang Engineer",
+        "link": "https://www.linkedin.com/jobs/view/4037222694/",
+        "job_recruiter": "",
+        "job_location": "Latin America (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Sezzle",
+        "job_title": "Junior Software Engineer (LATAM)",
+        "link": "https://www.linkedin.com/jobs/view/3777790825/",
+        "job_recruiter": "",
+        "job_location": "Latin America (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Avenue Code",
+        "job_title": "Senior Data Scientist",
+        "link": "https://www.linkedin.com/jobs/view/4055785786/",
+        "job_recruiter": "",
+        "job_location": "Latin America (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "AllianceIT Inc",
+        "job_title": "T-SQL and OLTP Developer",
+        "link": "https://www.linkedin.com/jobs/view/4046571907/",
+        "job_recruiter": "",
+        "job_location": "Latin America (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Bitso",
+        "job_title": "Sr Site Reliability Engineer - Latam",
+        "link": "https://www.linkedin.com/jobs/view/4034548992/",
+        "job_recruiter": "",
+        "job_location": "Latin America (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Avenue Code",
+        "job_title": "Senior React Native Engineer",
+        "link": "https://www.linkedin.com/jobs/view/4055786727/",
+        "job_recruiter": "",
+        "job_location": "Latin America (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Bitso",
+        "job_title": "Senior Data Engineer",
+        "link": "https://www.linkedin.com/jobs/view/4051924704/",
+        "job_recruiter": "",
+        "job_location": "Latin America (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Verbalista",
+        "job_title": "Senior macOS Engineer (LATAM)",
+        "link": "https://www.linkedin.com/jobs/view/4053436153/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "CI&T",
+        "job_title": "Senior Data Developer, Brazil",
+        "link": "https://www.linkedin.com/jobs/view/4055729384/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "CI&T",
+        "job_title": "Senior Flutter Developer, Brasil",
+        "link": "https://www.linkedin.com/jobs/view/4055729389/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Conquest One",
+        "job_title": "Cloud Security Engineer",
+        "link": "https://www.linkedin.com/jobs/view/4051085585/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "CI&T",
+        "job_title": "Software Architect (Java), Brazil",
+        "link": "https://www.linkedin.com/jobs/view/4053967462/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "CI&T",
+        "job_title": "Mid/Sr Fullstack Developer (React/Node), Brazil",
+        "link": "https://www.linkedin.com/jobs/view/4055733162/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "HCLTech",
+        "job_title": "Senior Data Engineer",
+        "link": "https://www.linkedin.com/jobs/view/4050834181/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Spread Tecnologia",
+        "job_title": "Pessoa Desenvolvedora Java/ Angular (Fullstack) S\u00eanior",
+        "link": "https://www.linkedin.com/jobs/view/4051209110/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Luxoft",
+        "job_title": "Senior Software React Native Developer with C++ or Java",
+        "link": "https://www.linkedin.com/jobs/view/4053997311/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "team.it",
+        "job_title": "Full Stack Developer",
+        "link": "https://www.linkedin.com/jobs/view/4009223010/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Dexian",
+        "job_title": "Desenvolvedor Mobile iOS",
+        "link": "https://www.linkedin.com/jobs/view/4053106587/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Salt",
+        "job_title": "Data Engineer (LATAM) Contract",
+        "link": "https://www.linkedin.com/jobs/view/4048079321/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "INDI Staffing Services",
+        "job_title": "Python Developer - Remote",
+        "link": "https://www.linkedin.com/jobs/view/4052751413/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "INDI Staffing Services",
+        "job_title": "iOS Developer - Remote",
+        "link": "https://www.linkedin.com/jobs/view/4052348681/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Avenue Code",
+        "job_title": "Machine Learning Engineer",
+        "link": "https://www.linkedin.com/jobs/view/4055789415/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "EEmovel",
+        "job_title": "Senior Machine Learning Engineer",
+        "link": "https://www.linkedin.com/jobs/view/4048499825/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Softtek",
+        "job_title": "Desenvolvedor Cobol S\u00eanior",
+        "link": "https://www.linkedin.com/jobs/view/4052265808/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Invillia",
+        "job_title": "Mid Backend Developer - Java",
+        "link": "https://www.linkedin.com/jobs/view/4052376247/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "TQI",
+        "job_title": "Engenheiro de software Front-end (Pleno) 100% Remoto",
+        "link": "https://www.linkedin.com/jobs/view/4048290635/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Luizalabs",
+        "job_title": "Engenheiro (a) de Dados / Analytics Engineer SR",
+        "link": "https://www.linkedin.com/jobs/view/4048082241/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Softon Digital",
+        "job_title": "Web Video Player Engineer",
+        "link": "https://www.linkedin.com/jobs/view/4049862527/",
+        "job_recruiter": "",
+        "job_location": "Latin America (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Acendeo",
+        "job_title": "Senior Data Engineer",
+        "link": "https://www.linkedin.com/jobs/view/4053993869/",
+        "job_recruiter": "",
+        "job_location": "Latin America (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Workling",
+        "job_title": "Data Engineer (Remote From Anywhere)",
+        "link": "https://www.linkedin.com/jobs/view/4052129289/",
+        "job_recruiter": "",
+        "job_location": "Latin America (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Workling",
+        "job_title": "Junior React Developer (Remote From Anywhere)",
+        "link": "https://www.linkedin.com/jobs/view/4052137936/",
+        "job_recruiter": "",
+        "job_location": "Latin America (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "L.A. Head Hunter",
+        "job_title": "Work From Home Java Developer",
+        "link": "https://www.linkedin.com/jobs/view/4048231033/",
+        "job_recruiter": "",
+        "job_location": "Latin America (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "EPAM Systems",
+        "job_title": "Senior Salesforce Developer",
+        "link": "https://www.linkedin.com/jobs/view/4035772095/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Stefanini Group",
+        "job_title": "Desenvolvedor ServiceNow Pleno",
+        "link": "https://www.linkedin.com/jobs/view/4051022714/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Minsait",
+        "job_title": "Desenvolvedor Salesforce",
+        "link": "https://www.linkedin.com/jobs/view/4051839270/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "EPAM Systems",
+        "job_title": "Senior ServiceNow Engineer",
+        "link": "https://www.linkedin.com/jobs/view/4034244090/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "CI&T",
+        "job_title": "Mid-level DevOps Engineer (AWS), Brazil",
+        "link": "https://www.linkedin.com/jobs/view/4055726939/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Stefanini Brasil",
+        "job_title": "Desenvolvedor(a) TALEND SR",
+        "link": "https://www.linkedin.com/jobs/view/4049864806/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "CI&T",
+        "job_title": "Mid/Senior QA (Automation) , Brazil",
+        "link": "https://www.linkedin.com/jobs/view/4050304184/",
+        "job_recruiter": "",
+        "job_location": "Greater Belo Horizonte (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "CI&T",
+        "job_title": "Senior FullStack Developer, Brazil",
+        "link": "https://www.linkedin.com/jobs/view/4055730361/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "HVAR",
+        "job_title": "Engenheiro de dados AWS",
+        "link": "https://www.linkedin.com/jobs/view/4051014668/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "CI&T",
+        "job_title": "Developer Java SR (C/AWS)",
+        "link": "https://www.linkedin.com/jobs/view/4051719341/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "EPAM Systems",
+        "job_title": "Lead Java Developer",
+        "link": "https://www.linkedin.com/jobs/view/4033568085/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "TQI",
+        "job_title": "Engenheiro (a) de Software Android - Pleno - 100% Remoto",
+        "link": "https://www.linkedin.com/jobs/view/4047679137/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Visum Digital",
+        "job_title": "Desenvolvedor Salesforce S\u00eanior",
+        "link": "https://www.linkedin.com/jobs/view/4048202873/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "WRS Health",
+        "job_title": "Front-End Developer",
+        "link": "https://www.linkedin.com/jobs/view/4050322948/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "AVANTTi",
+        "job_title": "Desenvolvedor Mulesoft S\u00eanior",
+        "link": "https://www.linkedin.com/jobs/view/4051018980/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Stefanini Brasil",
+        "job_title": "Engenheiro de dados",
+        "link": "https://www.linkedin.com/jobs/view/4052031328/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Empresa Confidencial",
+        "job_title": "SENIOR IOS ENGINEER",
+        "link": "https://www.linkedin.com/jobs/view/4053295326/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Insight Global",
+        "job_title": "Software Design Engineer in Test",
+        "link": "https://www.linkedin.com/jobs/view/4051250589/",
+        "job_recruiter": "",
+        "job_location": "Latin America (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Scanntech Uruguay",
+        "job_title": "Desarrollador Python",
+        "link": "https://www.linkedin.com/jobs/view/4052349535/",
+        "job_recruiter": "",
+        "job_location": "Latin America (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "GeorgiaTEK Systems Inc.",
+        "job_title": "Xamarin Developer",
+        "link": "https://www.linkedin.com/jobs/view/4050878336/",
+        "job_recruiter": "",
+        "job_location": "Latin America (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Fast Dolphin",
+        "job_title": "Data Engineer",
+        "link": "https://www.linkedin.com/jobs/view/4055809226/",
+        "job_recruiter": "",
+        "job_location": "Latin America (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Insight Global",
+        "job_title": "DevOps Engineer",
+        "link": "https://www.linkedin.com/jobs/view/4048428680/",
+        "job_recruiter": "",
+        "job_location": "Latin America (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Workling",
+        "job_title": "Junior Java Developer (Remote From Anywhere)",
+        "link": "https://www.linkedin.com/jobs/view/4052139860/",
+        "job_recruiter": "",
+        "job_location": "Latin America (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "GlobalLogic",
+        "job_title": "Senior Frontend Developer",
+        "link": "https://www.linkedin.com/jobs/view/4052189106/",
+        "job_recruiter": "",
+        "job_location": "Latin America (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Workling",
+        "job_title": "Kotlin Developer (Remote From Anywhere)",
+        "link": "https://www.linkedin.com/jobs/view/4052143167/",
+        "job_recruiter": "",
+        "job_location": "Latin America (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Questrade Financial Group",
+        "job_title": "Senior Offensive Security Engineer",
+        "link": "https://www.linkedin.com/jobs/view/4050266806/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "OSF Digital",
+        "job_title": "Salesforce Developer",
+        "link": "https://www.linkedin.com/jobs/view/4053082121/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "AllianceIT Inc",
+        "job_title": "Senior Salesforce Developer",
+        "link": "https://www.linkedin.com/jobs/view/4048452853/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Prudent Technologies and Consulting, Inc.",
+        "job_title": "Security Engineer",
+        "link": "https://www.linkedin.com/jobs/view/4051229983/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "CI&T",
+        "job_title": "MidLevel Developer Fullstack Java+ React, Brasil",
+        "link": "https://www.linkedin.com/jobs/view/4049385310/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "TurnKey Tech Staffing",
+        "job_title": "Site Reliability Engineer",
+        "link": "https://www.linkedin.com/jobs/view/4051040581/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Insight Global",
+        "job_title": "SDET/Automation QE (Python)",
+        "link": "https://www.linkedin.com/jobs/view/4052151113/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Workling",
+        "job_title": "Java Developer (Remote From Anywhere)",
+        "link": "https://www.linkedin.com/jobs/view/4052137810/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "CI&T",
+        "job_title": "Pleno Developer Python, Brasil",
+        "link": "https://www.linkedin.com/jobs/view/4052397623/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "CI&T",
+        "job_title": "Senior Java Developer, Brazil",
+        "link": "https://www.linkedin.com/jobs/view/4053080809/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "CI&T",
+        "job_title": "Senior IOS Developer, Brazil",
+        "link": "https://www.linkedin.com/jobs/view/4053055956/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "TurnKey Tech Staffing",
+        "job_title": "Senior Automation QA Engineer",
+        "link": "https://www.linkedin.com/jobs/view/4052207927/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Harvey Nash",
+        "job_title": "DevOps Engineer",
+        "link": "https://www.linkedin.com/jobs/view/4052081718/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Praxis",
+        "job_title": "Salesforce Developer",
+        "link": "https://www.linkedin.com/jobs/view/4055627833/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Confidencial",
+        "job_title": "SENIOR ANDROID ENGINEER",
+        "link": "https://www.linkedin.com/jobs/view/4053298241/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Capitani Group",
+        "job_title": "Desenvolvedor Backend Phyton/TypeScript",
+        "link": "https://www.linkedin.com/jobs/view/4054415261/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "HUNT IT Tech Recruitment Agency",
+        "job_title": "Mobile Xamarin Developer",
+        "link": "https://www.linkedin.com/jobs/view/4043345392/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Luizalabs",
+        "job_title": "Engenheiro(a) de Plataforma de Dados Pleno",
+        "link": "https://www.linkedin.com/jobs/view/4051843482/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Triade LLC",
+        "job_title": "Desenvolvedor Informatica Cloud",
+        "link": "https://www.linkedin.com/jobs/view/4050868206/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Velozient",
+        "job_title": "Senior Database Engineer",
+        "link": "https://www.linkedin.com/jobs/view/4047673793/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "INDI Staffing Services",
+        "job_title": "Junior Java Developer - Remote",
+        "link": "https://www.linkedin.com/jobs/view/4052345913/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Stefanini Brasil",
+        "job_title": "Desenvolvedor(a) Talend SR",
+        "link": "https://www.linkedin.com/jobs/view/4049802895/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "ELT Desenvolvimento Humano",
+        "job_title": "Desenvolvedor Python Jr.",
+        "link": "https://www.linkedin.com/jobs/view/4053370434/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "SulAm\u00e9rica",
+        "job_title": "Desenvolvedor Java",
+        "link": "https://www.linkedin.com/jobs/view/4052283764/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "HUNT IT Tech Recruitment Agency",
+        "job_title": "Cypress (QA ) developer ( typescript)",
+        "link": "https://www.linkedin.com/jobs/view/4049529918/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Tata Consultancy Services",
+        "job_title": "Service Now Developer",
+        "link": "https://www.linkedin.com/jobs/view/4053085823/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Stefanini Brasil",
+        "job_title": "Dev Mainframe/Cobol Senior - Ingl\u00eas Avan\u00e7ado",
+        "link": "https://www.linkedin.com/jobs/view/4053987997/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "FOURSYS",
+        "job_title": "Especialista DevSecOps",
+        "link": "https://www.linkedin.com/jobs/view/4051799866/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "CI&T",
+        "job_title": "Software Architect Drupal, Brazil",
+        "link": "https://www.linkedin.com/jobs/view/4049968596/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "INDI Staffing Services",
+        "job_title": "Java Developer - Remote",
+        "link": "https://www.linkedin.com/jobs/view/4052349549/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "CI&T",
+        "job_title": "Mid Level/Senior Developer Java Spring Boot (AWS), Brasil",
+        "link": "https://www.linkedin.com/jobs/view/4053979938/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "CI&T",
+        "job_title": "Mid-Level Data Developer, Brazil",
+        "link": "https://www.linkedin.com/jobs/view/4055730360/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "CI&T",
+        "job_title": "Mid-Level Java Developer, Brazil",
+        "link": "https://www.linkedin.com/jobs/view/4051125726/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "FOURSYS",
+        "job_title": "Desenvolvedor(a) Android Pl",
+        "link": "https://www.linkedin.com/jobs/view/4051753542/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Artycs.ai",
+        "job_title": "Desenvolvedor ServiceNow S\u00eanior",
+        "link": "https://www.linkedin.com/jobs/view/4037791160/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Plantar",
+        "job_title": "Desenvolvedor Mendix",
+        "link": "https://www.linkedin.com/jobs/view/4051184941/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Ardanis",
+        "job_title": "Senior AWS DevOps Engineer",
+        "link": "https://www.linkedin.com/jobs/view/4051080488/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Carbigdata",
+        "job_title": "Desenvolvedor Java Pleno",
+        "link": "https://www.linkedin.com/jobs/view/4054408090/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "GROWISE ACADEMY",
+        "job_title": "Xamarin Developer - 5years",
+        "link": "https://www.linkedin.com/jobs/view/4052997611/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Manj\u00ea",
+        "job_title": "[Portugal] Desenvolvedor Mendix Senior",
+        "link": "https://www.linkedin.com/jobs/view/4048034156/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "InterSources Inc",
+        "job_title": "Salesforce Developer",
+        "link": "https://www.linkedin.com/jobs/view/4051164678/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Capitani Group",
+        "job_title": "Desenvolvedor Java Sr",
+        "link": "https://www.linkedin.com/jobs/view/4052267110/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Capitani Group",
+        "job_title": "Desenvolvedor Salesforce",
+        "link": "https://www.linkedin.com/jobs/view/4050834194/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "DNAMIC | Databricks Data Solutions",
+        "job_title": "R Developer",
+        "link": "https://www.linkedin.com/jobs/view/4053987793/",
+        "job_recruiter": "",
+        "job_location": "Latin America (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Yalo",
+        "job_title": "QA Automation Engineer",
+        "link": "https://www.linkedin.com/jobs/view/3978697186/",
+        "job_recruiter": "",
+        "job_location": "Latin America (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Encora Inc.",
+        "job_title": "Python Developer SR - LLM",
+        "link": "https://www.linkedin.com/jobs/view/4051260101/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Evalueserve",
+        "job_title": "Snaplogic Developer",
+        "link": "https://www.linkedin.com/jobs/view/4053381672/",
+        "job_recruiter": "",
+        "job_location": "Latin America (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Gemraj Technologies Ltd ",
+        "job_title": "Senior Python Developer-17852",
+        "link": "https://www.linkedin.com/jobs/view/4047676756/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "AI Collaborator, Inc.",
+        "job_title": "Senior Data Scientist",
+        "link": "https://www.linkedin.com/jobs/view/4051051542/",
+        "job_recruiter": "",
+        "job_location": "Latin America (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Elaniin ",
+        "job_title": "GCP Cloud Engineer",
+        "link": "https://www.linkedin.com/jobs/view/4049838410/",
+        "job_recruiter": "",
+        "job_location": "Latin America (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "CI&T",
+        "job_title": "Software Architect Drupal, Brazil",
+        "link": "https://www.linkedin.com/jobs/view/4053505150/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "CI&T",
+        "job_title": "Senior Python Fullstack Developer, Brasil",
+        "link": "https://www.linkedin.com/jobs/view/4055727884/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "CI&T",
+        "job_title": "Mid level Java Developer, Brazil",
+        "link": "https://www.linkedin.com/jobs/view/4053083539/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "CI&T",
+        "job_title": "Java Software Architect, Brazil",
+        "link": "https://www.linkedin.com/jobs/view/4055727882/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "CI&T",
+        "job_title": "Mid level Java + Angular Developer, Brazil",
+        "link": "https://www.linkedin.com/jobs/view/4055728385/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "CI&T",
+        "job_title": "Mid-Level Java/Angular Developer, Brazil",
+        "link": "https://www.linkedin.com/jobs/view/4055728386/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "CI&T",
+        "job_title": "Pleno React Native / React.js / Node.js Developer Fullstack, Brasil.",
+        "link": "https://www.linkedin.com/jobs/view/4053148558/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "CI&T",
+        "job_title": "Developer SR Fullstack React/NodeJS",
+        "link": "https://www.linkedin.com/jobs/view/4050897698/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "CI&T",
+        "job_title": "Pleno Developer Backend (Golang), Brasil",
+        "link": "https://www.linkedin.com/jobs/view/4051072893/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Capitani Group",
+        "job_title": "Desenvolvedor Salesforce",
+        "link": "https://www.linkedin.com/jobs/view/4048013193/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "CI&T",
+        "job_title": "Senior Developer Python, Brazil",
+        "link": "https://www.linkedin.com/jobs/view/4055727874/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "CI&T",
+        "job_title": "Developer Android Mid - Level, Brazil",
+        "link": "https://www.linkedin.com/jobs/view/4055726933/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "System Soft Technologies",
+        "job_title": "Java Software Engineer",
+        "link": "https://www.linkedin.com/jobs/view/4049580238/",
+        "job_recruiter": "",
+        "job_location": "Latin America (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Bitso",
+        "job_title": "IT Engineer II",
+        "link": "https://www.linkedin.com/jobs/view/3968583863/",
+        "job_recruiter": "",
+        "job_location": "Latin America (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "BlockTXM Inc",
+        "job_title": "Healthcare Python Developer",
+        "link": "https://www.linkedin.com/jobs/view/4052990358/",
+        "job_recruiter": "",
+        "job_location": "Latin America (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "DNAMIC | Databricks Data Solutions",
+        "job_title": "Machine Learning Engineer",
+        "link": "https://www.linkedin.com/jobs/view/4053997504/",
+        "job_recruiter": "",
+        "job_location": "Latin America (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Logicea",
+        "job_title": "AWS Data Engineer",
+        "link": "https://www.linkedin.com/jobs/view/4052044082/",
+        "job_recruiter": "",
+        "job_location": "Latin America (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Fast Dolphin",
+        "job_title": "Data Scientist",
+        "link": "https://www.linkedin.com/jobs/view/4053512239/",
+        "job_recruiter": "",
+        "job_location": "Latin America (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "knowmad mood",
+        "job_title": "Programador GIS",
+        "link": "https://www.linkedin.com/jobs/view/4037740299/",
+        "job_recruiter": "",
+        "job_location": "Latin America (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Remobi",
+        "job_title": "Data Engineer",
+        "link": "https://www.linkedin.com/jobs/view/4054400971/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Stateside",
+        "job_title": "Salesforce Developer",
+        "link": "https://www.linkedin.com/jobs/view/4005920750/",
+        "job_recruiter": "",
+        "job_location": "Latin America (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "System Soft Technologies",
+        "job_title": "Java Developer",
+        "link": "https://www.linkedin.com/jobs/view/4049807137/",
+        "job_recruiter": "",
+        "job_location": "Latin America (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Xebia",
+        "job_title": "GCP DevOps Engineer",
+        "link": "https://www.linkedin.com/jobs/view/4052433250/",
+        "job_recruiter": "",
+        "job_location": "Latin America (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Hyrhub",
+        "job_title": "Data Scientist",
+        "link": "https://www.linkedin.com/jobs/view/4048671912/",
+        "job_recruiter": "",
+        "job_location": "Latin America (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "Stateside",
+        "job_title": "Mobile Application Developer",
+        "link": "https://www.linkedin.com/jobs/view/4053459959/",
+        "job_recruiter": "",
+        "job_location": "Latin America (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "CI&T",
+        "job_title": "Senior Drupal Developer, Brazil",
+        "link": "https://www.linkedin.com/jobs/view/4049971474/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "CI&T",
+        "job_title": "Senior Software Developer (Python and SQL), Brazil",
+        "link": "https://www.linkedin.com/jobs/view/4055730363/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "CI&T",
+        "job_title": "Mid-Level Fullstack Java/Angular Developer, Brazil",
+        "link": "https://www.linkedin.com/jobs/view/4055726930/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "CI&T",
+        "job_title": "Junior Java-Angular Fullstack Developer | Afirmativa PCD, Brazil",
+        "link": "https://www.linkedin.com/jobs/view/4055732309/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
+    },
+    {
+        "company": "CI&T",
+        "job_title": "Mid-Level Java Developer, Brazil",
+        "link": "https://www.linkedin.com/jobs/view/4055765071/",
+        "job_recruiter": "",
+        "job_location": "Brazil (Remote)",
+        "pdf_path": "file:///C:/Projetos/GitHub/Auto_Jobs_Applier_AIHawk"
     }
 ]
