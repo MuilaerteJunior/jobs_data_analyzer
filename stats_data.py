@@ -1,13 +1,15 @@
 import pandas as pd
+import numpy as np
 import matplotlib.pyplot as plt
 import json
 from collections import defaultdict
 from typing import Dict, List, Tuple, Callable
 
-
 class StatsMyData:
     def __init__(self, jsonfileName):
-        self.data = pd.read_json(jsonfileName) 
+        self.data = pd.read_json(jsonfileName)         
+        self.data['company'].replace("", np.nan, inplace=True)
+        self.data = self.data.dropna(subset=['company'])        
         self.sourceFileName = jsonfileName       
 
     def output(self):
@@ -57,7 +59,7 @@ class StatsMyData:
 
     def getCompanies(self) -> Dict:
         companiesGroup = self.data.groupby("company")
-        return companiesGroup
+        return sorted(companiesGroup, key=lambda item: len(item[1]), reverse=True)
 
     def read_file(self):
         with open(self.json_file, 'r') as file:
